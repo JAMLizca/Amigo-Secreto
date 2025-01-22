@@ -81,13 +81,11 @@ Puedes personalizar el diseño y la funcionalidad ajustando los archivos:
 
 Agradecemos a **Oracle** y **Alura LATAM** por su apoyo y recursos educativos que han sido fundamentales para el desarrollo de este proyecto.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes consultarla en el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Créditos
 
-Desarrollado por José Alejandro Montenegro Lizcano.
+Desarrollado por Jose Alejandro Montenegro Lizcano.
 
 ---
 ¡Diviértete jugando Amigo Secreto!
+[Amigo Secreto](!https://secretsantaonline.com/assets/frontend/img/blog/ef360f61fd5807de916b59b5a9a789f4.jpg)
