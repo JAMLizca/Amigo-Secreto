@@ -23,9 +23,6 @@ Este es un juego de **Amigo Secreto** diseñado para asignar de forma aleatoria 
    ```bash
    git clone https://github.com/JAMLizca/Amigo-Secreto
    ```
-<div align="center">
-   <img src = "https://kingwebseo.com/wp-content/uploads/2023/03/Navegador-web-1.jpg" alt="navegadores" title ="navegadores uso" width ="70%">
-</div>
 2. Abre el archivo `index.html` en cualquier navegador web.
 3. Ingresa los nombres de los participantes en el campo correspondiente.
 4. Haz clic en el botón para realizar el sorteo.
