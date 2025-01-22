@@ -32,9 +32,17 @@ No se requiere instalación. Solo necesitas un navegador web moderno para ejecut
 
 ## Ejemplo de uso
 
+![Pantalla inicial](images/pantalla_inicial.png "Pantalla inicial del juego")
+
 1. **Pantalla inicial**: Ingresar los nombres de los participantes.
 2. **Sorteo**: Haz clic en el botón "Asignar".
+
+![Sorteo en progreso](images/sorteo.png "Sorteo en progreso")
+
 3. **Resultado**: Verás la asignación de Amigo Secreto.
+
+![Resultado del sorteo](images/resultado.png "Resultado del sorteo")
+
 
 ## Personalización
 
