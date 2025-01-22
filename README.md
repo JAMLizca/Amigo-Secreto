@@ -35,16 +35,17 @@ No se requiere instalación. Solo necesitas un navegador web moderno para ejecut
 
 ## Ejemplo de uso
 
-![Pantalla inicial](images/pantalla_inicial.png "Pantalla inicial del juego")
+![Pantalla inicial](https://github.com/JAMLizca/Amigo-Secreto/blob/main/img_ejemplos_uso/Opera%20Captura%20de%20pantalla_2025-01-22_162042_jamlizca.github.io.png "Pantalla inicial del juego")
 
 1. **Pantalla inicial**: Ingresar los nombres de los participantes.
 2. **Sorteo**: Haz clic en el botón "Asignar".
 
-![Sorteo en progreso](images/sorteo.png "Sorteo en progreso")
+![Sorteo en progreso](https://github.com/JAMLizca/Amigo-Secreto/blob/main/img_ejemplos_uso/Opera%20Captura%20de%20pantalla_2025-01-22_162158_jamlizca.github.io.png "Sorteo en progreso")
+![Sorteo en progreso](https://github.com/JAMLizca/Amigo-Secreto/blob/main/img_ejemplos_uso/Opera%20Captura%20de%20pantalla_2025-01-22_162233_jamlizca.github.io.png "Sorteo en progreso")
 
 3. **Resultado**: Verás la asignación de Amigo Secreto.
 
-![Resultado del sorteo](images/resultado.png "Resultado del sorteo")
+![Resultado del sorteo]( https://github.com/JAMLizca/Amigo-Secreto/blob/main/img_ejemplos_uso/Opera%20Captura%20de%20pantalla_2025-01-22_162313_jamlizca.github.io.png "Resultado del sorteo")
 
 
 ## Personalización
