@@ -19,7 +19,7 @@ Este es un juego de **Amigo Secreto** diseñado para asignar de forma aleatoria 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/JAMLizca/Amigo-Secreto
    ```
 2. Abre el archivo `index.html` en cualquier navegador web.
 3. Ingresa los nombres de los participantes en el campo correspondiente.
