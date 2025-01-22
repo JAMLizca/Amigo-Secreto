@@ -50,6 +50,10 @@ No se requiere instalación. Solo necesitas un navegador web moderno para ejecut
 
  ![Resultado del sorteo]( https://github.com/JAMLizca/Amigo-Secreto/blob/main/img_ejemplos_uso/Opera%20Captura%20de%20pantalla_2025-01-22_162313_jamlizca.github.io.png "Resultado del sorteo")
 
+## Visita el proyecto
+
+Puedes visitar y probar el proyecto en línea desde GitHub Pages:
+[Amigo Secreto en GitHub.io](https://<usuario>.github.io/<repositorio>)
 
 ## Personalización
 
