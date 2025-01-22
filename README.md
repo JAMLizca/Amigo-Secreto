@@ -53,7 +53,7 @@ No se requiere instalación. Solo necesitas un navegador web moderno para ejecut
 ## Visita el proyecto
 
 Puedes visitar y probar el proyecto en línea desde GitHub Pages:
-[Amigo Secreto en GitHub.io](https://<usuario>.github.io/<repositorio>)
+[Amigo Secreto en GitHub.io](https://jamlizca.github.io/Amigo-Secreto/)
 
 ## Personalización
 
