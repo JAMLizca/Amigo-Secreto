@@ -16,12 +16,16 @@ Este es un juego de **Amigo Secreto** diseñado para asignar de forma aleatoria 
 - **JavaScript**: Para la lógica de asignación aleatoria y la interactividad.
 
 ## Instrucciones de uso
-![Git Banner](https://mascandobits.es/blog/wp-content/uploads/2016/01/git_banner.jpg "Git Banner")
+<div align="center">
+  <img src="https://mascandobits.es/blog/wp-content/uploads/2016/01/git_banner.jpg" alt="Git Banner" title="Git Banner" width="70%">
+</div>
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/JAMLizca/Amigo-Secreto
    ```
-  ![navegador]( https://kingwebseo.com/wp-content/uploads/2023/03/Navegador-web-1.jpg "navegadro")
+<div align="center">
+   <img src = "https://kingwebseo.com/wp-content/uploads/2023/03/Navegador-web-1.jpg" alt="navegadores" title ="navegadores uso" width ="70%">
+</div>
 2. Abre el archivo `index.html` en cualquier navegador web.
 3. Ingresa los nombres de los participantes en el campo correspondiente.
 4. Haz clic en el botón para realizar el sorteo.
