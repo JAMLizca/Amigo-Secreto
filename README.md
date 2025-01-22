@@ -16,7 +16,7 @@ Este es un juego de **Amigo Secreto** diseñado para asignar de forma aleatoria 
 - **JavaScript**: Para la lógica de asignación aleatoria y la interactividad.
 
 ## Instrucciones de uso
-
+![Git Banner](https://mascandobits.es/blog/wp-content/uploads/2016/01/git_banner.jpg "Git Banner")
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/JAMLizca/Amigo-Secreto
