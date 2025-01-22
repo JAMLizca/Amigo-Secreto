@@ -19,6 +19,7 @@ Este es un juego de **Amigo Secreto** diseñado para asignar de forma aleatoria 
 <div align="center">
   <img src="https://mascandobits.es/blog/wp-content/uploads/2016/01/git_banner.jpg" alt="Git Banner" title="Git Banner" width="70%">
 </div>
+
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/JAMLizca/Amigo-Secreto
