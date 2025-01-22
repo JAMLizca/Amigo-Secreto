@@ -1,4 +1,4 @@
-[Amigo Secreto](!https://secretsantaonline.com/assets/frontend/img/blog/ef360f61fd5807de916b59b5a9a789f4.jpg)
+![Amigo Secreto](https://secretsantaonline.com/assets/frontend/img/blog/ef360f61fd5807de916b59b5a9a789f4.jpg)
 # Amigo Secreto
 
 Este es un juego de **Amigo Secreto** diseñado para asignar de forma aleatoria a un amigo secreto entre un grupo de participantes. La aplicación utiliza tecnologías web como **HTML**, **CSS**, y **JavaScript** para ofrecer una experiencia interactiva y divertida.
